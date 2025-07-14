@@ -9,15 +9,16 @@
 1.3. Базовые операции с DataFrames  
 1.4. SQL-синтаксис в PySpark  
 
-2. [Продвинутые операции](https://github.com/AnatolyKuzmin/PySpark/blob/main/2_Продвинутые_операции.ipynb)
+2. [Продвинутые операции](https://github.com/AnatolyKuzmin/PySpark/blob/main/2_Продвинутые_операции.ipynb)  
 2.1. Оконные функции  
 2.2. Работа с датами и строками  
 2.3. Оптимизация (партиционирование, кэширование)  
 2.4. UDF (пользовательские функции)  
 2.5. Чтение/запись в разных форматах  
 
-3. [Работа с Big Data]()
+3. [Работа с Big Data](https://github.com/AnatolyKuzmin/PySpark/blob/main/3_Работа_с_Big_Data.ipynb)  
 3.1. Spark SQL (каталог, метаданные)  
-3.2. Оптимизация запросов (Explain, Tungsten)  
-3.3. Работа с GraphFrames  
-3.4. Интеграция с Python (Pandas, NumPy)
+3.2. Structured Streaming (основы)  
+3.3. Оптимизация запросов (Explain, Tungsten)  
+3.4. Работа с GraphFrames  
+3.5. Интеграция с Python (Pandas, NumPy)  
