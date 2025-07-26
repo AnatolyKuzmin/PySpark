@@ -23,10 +23,10 @@
 3.4. Работа с GraphFrames  
 3.5. Интеграция с Python (Pandas, NumPy)  
 
-4. [Экспертные темы]()  
+4. [Экспертные темы](https://github.com/AnatolyKuzmin/PySpark/blob/main/5_Финальный%20проект.ipynb)  
 4.1. Delta Lake  
 4.2. MLlib (машинное обучение)  
 4.3. Распределенная обработка (Glue, EMR)  
 4.4. Отладка и логирование  
 
-5. [Проект]()  
+5. [Проект](https://github.com/AnatolyKuzmin/PySpark/blob/main/5_Финальный%20проект.ipynb)  
